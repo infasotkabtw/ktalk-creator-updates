@@ -1,5 +1,6 @@
 {
-    "version":  "9.14.0",
-    "url":  "https://github.com/infasotkabtw/ktalk-creator-updates/releases/download/v9.14.0/KTalk_Update_9.14.0.zip",
-    "sha256":  "96a709f2754303a62cc9bfe9066fcf2d0b1694bee726c3de8c4531294b8aedcf"
+  "version": "9.14.1",
+  "url": "https://github.com/infasotkabtw/ktalk-creator-updates/releases/download/v9.14.1/KTalk_Update_9.14.1.zip",
+  "sha256": "66C476EC38E8EB61D82CE3D89A036CAE4C654006C7BCEA1C1000DE1C107AD690",
+  "notes": "Portable runtime: PHP и SDK теперь подготавливаются автоматически."
 }
